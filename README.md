@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hila
+# 👋 Hi, I'm Hila Gashma
 
 Full Stack Developer passionate about building modern web applications.
 
@@ -13,14 +13,14 @@ I enjoy learning new technologies, solving problems, and creating clean and effi
 - ASP.NET Core
 - React
 - Angular
+- Java
+- Python
 - TypeScript
 - Entity Framework Core
 - SQL
 - MySQL
 - AWS S3
 - Git & GitHub
-- Java
-- Python
 - AI Tools (GitHub Copilot, AI-assisted development)
 - Prompt Engineering basics 
 

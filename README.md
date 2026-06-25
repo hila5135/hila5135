@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Hila
 
-<!--
-**hila5135/hila5135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer passionate about building modern web applications.
 
-Here are some ideas to get you started:
+I have experience developing projects using .NET, C#, React, Angular, SQL, and AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, solving problems, and creating clean and efficient solutions.
+
+## 🛠 Technologies
+
+- C#
+- .NET 9
+- ASP.NET Core
+- React
+- Angular
+- TypeScript
+- Entity Framework Core
+- SQL
+- MySQL
+- AWS S3
+- Git & GitHub
+- Java
+- Python
+- AI Tools (GitHub Copilot, AI-assisted development)
+- Prompt Engineering basics 
+
+## 🚀 Projects
+
+- Full Stack web applications
+- User management systems
+- Cloud file storage solutions
+- Authentication systems
+
+## 💼 Looking for
+
+Junior Full Stack Developer opportunities with interest in Cloud, DevOps, and AI-assisted development.
+
+Interested in software development, cloud infrastructure, automation, and improving development workflows.
+
+📫 Contact: hilabassis@gmail.com 
